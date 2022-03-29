@@ -1,0 +1,66 @@
+How to run the Hospital Management System Project:
+1. Download the  zip file.
+
+2. Extract the file and copy hospitals folder.
+
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html).
+
+4. Open PHPMyAdmin for backend (http://localhost/phpmyadmin).
+
+5. Create a database with name onlinehospitalmanagement.
+
+6. Import onlinehospitalmanagement.sql file(given inside the zip package in SQL file folder).
+
+7. Run the script http://localhost/hospitals (frontend).
+
+Login Details:
+Login Details for admin : admin123
+
+Doctor and Patient login you can create using Admin Panel.
+
+
+
+How to run schedular made using AngularJS:
+1. Download nodejs package.
+
+2. Download our zip file.
+
+3. Extract the file and paste calender in any folder which you wish.
+
+4. Open the folder in in visual studio code editor.
+
+5. Open terminal using (crtl+`).
+
+6. Go to the my-schedular-app location using cd my-schedular-app
+
+7. Now run ng serve --open to run the system.
+
+
+How to run contact form using laravel:
+1. Download nodejs package.
+
+2. Download the zip file.
+
+3. Extract the file and paste contactform in any folder of your choice.
+
+4. Open the folder in in visual studio code editor.
+
+5. Open terminal using (crtl+`).
+
+6. Now execute php artisan serve to run system.
+
+
+How to run blog page using flask:
+1. Download the python packages fron browser to run Flask.
+
+2. Download our zip file.
+
+3. Extract the file and paste blogpage in any folder which you wish.
+
+4. Open the folder in in visual studio code editor.
+
+5. Open terminal using (crtl+`).
+
+6. Now execute pipenv run python app.py to create virtual environment for app.py file.
+
+7. Finally run pipenv run flask run to deploy this system.
